@@ -16,3 +16,14 @@ Skills: Java/ Spring/Spring Boot/Spring Rest/JS / HTML / CSS/Python/Angular/AWS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MANORAMAUPADHYAY)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/manorama-upadhyay/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANORAMAUPADHYAY)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MANORAMAUPADHYAY&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MANORAMAUPADHYAY)  
+
+![GitHub metrics](https://metrics.lecoq.io/MANORAMAUPADHYAY)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MANORAMAUPADHYAY)  
+
+![Profile views](https://gpvc.arturio.dev/MANORAMAUPADHYAY)  
