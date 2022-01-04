@@ -1,7 +1,5 @@
-### Hello Techies 👋, I am Manorama Upadhyay
+### Hi there 👋, I am Manorama Upadhyay
 #### Full Stack Developer | Intern
-
-
 Software Developer with 2.5 years of experience in designing and developing Java Applications, Database solutions, ETL mappings from concept to completion. 
 
 Skills: Java/ Spring/Spring Boot/Spring Rest/JS / HTML / CSS/Python/Angular/AWS
@@ -16,5 +14,5 @@ Skills: Java/ Spring/Spring Boot/Spring Rest/JS / HTML / CSS/Python/Angular/AWS
 - ⚡ Fun fact: If I could have any superpower, it would be to be able to communicate with anybody on the planet in any language. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MANORAMAUPADHYAY)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/manorama-upadhyay/)  
 
