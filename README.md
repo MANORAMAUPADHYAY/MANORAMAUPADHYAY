@@ -1,6 +1,6 @@
 ### Hello Techies 👋, I am Manorama Upadhyay
 #### Full Stack Developer | Intern
-![Full Stack Developer | Intern](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Software Developer with 2.5 years of experience in designing and developing Java Applications, Database solutions, ETL mappings from concept to completion. 
 
