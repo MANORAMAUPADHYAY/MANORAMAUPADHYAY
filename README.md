@@ -14,7 +14,7 @@ Skills: Java/ Spring/Spring Boot/Spring Rest/JS / HTML / CSS/Python/Angular/AWS
 - ⚡ Fun fact: If I could have any superpower, it would be to be able to communicate with anybody on the planet in any language. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MANORAMAUPADHYAY)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/manorama-upadhyay/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color:white>](https://github.com/MANORAMAUPADHYAY)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background-color:white>](https://www.linkedin.com/in/www.linkedin.com/in/manorama-upadhyay/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
